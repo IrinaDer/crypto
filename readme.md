@@ -1,0 +1,7 @@
+- gulp
+- Pug
+- SASS
+- HTML5 JavaScript Charts
+- застосовуються спрайти
+- графіка оптимізована під retina
+- flexbox
